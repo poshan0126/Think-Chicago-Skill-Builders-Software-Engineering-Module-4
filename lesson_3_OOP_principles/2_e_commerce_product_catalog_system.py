@@ -33,7 +33,7 @@ class Clothing(Product):
 
 def main():
     # Create instances of each subclass
-    my_book = Book("1", "Python Essentials", 10, "Poshan P.")
+    my_book = Book("1", "Python Essentials", 29.99, "John Doe")
     my_electronic = Electronic("2", "Laptop", 20, "16GB RAM, 512GB SSD")
     my_clothing = Clothing("3", "T-Shirt", 30, "Medium")
 
